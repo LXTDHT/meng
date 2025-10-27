@@ -1,8 +1,14 @@
 [
 {
   "directory": "/Users/mk/Projects/meng/opengl/build",
-  "command": "/usr/bin/clang++  -I/Users/mk/Projects/meng/opengl/dependencies -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /Users/mk/Projects/meng/opengl/src/main.cpp",
+  "command": "/usr/bin/clang++  -I/Users/mk/Projects/meng/opengl/dependencies -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /Users/mk/Projects/meng/opengl/src/main.cpp",
   "file": "/Users/mk/Projects/meng/opengl/src/main.cpp",
   "output": "CMakeFiles/hello_window.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/mk/Projects/meng/opengl/build",
+  "command": "/usr/bin/clang  -I/Users/mk/Projects/meng/opengl/dependencies -isystem /opt/homebrew/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -o CMakeFiles/hello_window.dir/src/glad.c.o -c /Users/mk/Projects/meng/opengl/src/glad.c",
+  "file": "/Users/mk/Projects/meng/opengl/src/glad.c",
+  "output": "CMakeFiles/hello_window.dir/src/glad.c.o"
 }
 ]
