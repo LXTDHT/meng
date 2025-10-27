@@ -1,0 +1,3 @@
+/Users/mk/Projects/meng/opengl/build/CMakeFiles/hello_window.dir
+/Users/mk/Projects/meng/opengl/build/CMakeFiles/edit_cache.dir
+/Users/mk/Projects/meng/opengl/build/CMakeFiles/rebuild_cache.dir

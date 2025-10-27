@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "/Users/mk/Projects/meng/opengl",
+    "cmake.buildDirectory": "${workspaceFolder}/opengl/build",
+    "cmake.cmakePath": "/opt/homebrew/bin/cmake"
+}
