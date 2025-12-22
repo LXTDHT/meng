@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "checkJs": true,
+        "noEmit": true, // Don't create a JavaScript file.
+        "strict": true
+    },
+    "include": ["*.ts"] // Include all TypeScript files in the root directory.
+}
